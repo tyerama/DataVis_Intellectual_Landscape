@@ -1,0 +1,23 @@
+Slide-3: Introduction
+I'm working on a big project called "Mapping the Global Intellectual Landscape." I want to highlight the important work of influential people in different fields. I'm using a lot of data to look at things like how often their work is mentioned and how much they've published. I'm studying various areas like nanoscience, public health, and psychiatry. Our goal is to find patterns and trends in the world of research and share what I learn. This project isn't just about celebrating individuals; it's about understanding how knowledge evolves globally.
+
+Slide-4:
+I have a detailed dataset that includes information about authors, institutions, countries, publication years, rankings, citation counts, and more. This data helps us analyze and compare the impact of scholarly contributions across different parameters.
+
+Slide-5:
+I created a scatter plot showing how scholarly output has changed from the mid-90s to 2021. It's like a visual story of how research has gone up and down over time. Peaks in the plot show when there was a lot of academic activity, possibly leading to important discoveries. The plot also reveals global trends and the impact of major events on academic productivity. The interactive features make it a cool tool to explore and understand the global intellectual landscape.
+
+Slide-6:
+I made a world map that uses colors to show which countries have a lot of citations. Darker colors mean more citations. This helps us see where scholarly influence is strong, like in the USA, UK, Canada, and Germany. The map also shows collaborative research patterns between countries. You can interact with it to learn more about each country.
+
+Slide-7:
+I focused on the United States to dive deeper into the analysis because it has top-notch institutes. This visualization lets you explore American institutions. Clicking on markers shows institute details and creates interactive pie charts. These charts break down research into subfields, and clicking over them gives a dynamic bar graph of contributors. It helps understand each institute's research profile and who the key contributors are.
+
+Slide-8:
+The correlation matrix is like a map showing how different metrics are related. Dark colors mean a strong relationship. For example, there's a strong positive relationship between the number of publications and citations. It helps us understand how different metrics connect, but it's important to remember that just because two things are related doesn't mean one causes the other.
+
+Slide-9:
+explain yourself.
+
+Slide-10: Conclusion
+I explored the global intellectual landscape and found that it's a complex web of connections, growth, and influence. The visualizations, like the scatter plot over time, the global citations heat map, and the interactive USA map, helped us understand how scholarly contributions have evolved. I identified important contributors and institutes, gaining insights into the key players shaping the intellectual landscape. This project not only celebrates achievements but also contributes to a bigger conversation about collaboration and the changing nature of human knowledge worldwide.
